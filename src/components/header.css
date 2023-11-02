@@ -1,9 +1,15 @@
 .navbar{
     background-color: #255e4e;
     height: 80px;
+    display: flex;
+    justify-content: flex-start;
 }
 
 .logo{
+    padding-left: 40px;
     width: 80px;
     height: 80px;
+}
+.name{
+    padding-left: 40px;
 }
