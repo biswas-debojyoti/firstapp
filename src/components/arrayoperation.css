@@ -1,0 +1,34 @@
+.arrayoperation {
+    text-align: center;
+}
+
+ul {
+    /* text-align: center; */
+    margin: auto;
+    
+}
+
+.freandList {
+    width: 500px;
+    height: 80px;
+    padding-left: 20px;
+    list-style: none;
+    box-shadow: inset;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.delete {
+    background-color: #e2442b;
+    height: 50px;
+    width: 80px;
+    font-size: larger;
+    border-color: aquamarine;
+    border-radius: 17px;
+    margin: 10px;
+    /* justify-content: space-between; */
+    
+
+}
